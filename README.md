@@ -8,3 +8,5 @@ This robust collection is ideal for a variety of analytical tasks, including mar
 Reason for Choosing this Dataset
 My interest in this dataset stems from my academic background in spatial and city planning. This field has fueled my fascination with the real estate market and its dynamic developments. Moreover, understanding real estate trends and creating forecasts can open up potential investment opportunities. It is also interesting because it covers real estate transaction globally, thus offering interesting insights in the real estate developments in different regions of the world.
 
+Dataset used:
+https://www.kaggle.com/datasets/toriqulstu/worlds-real-estate-data147k/data 
